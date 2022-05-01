@@ -2,7 +2,8 @@
 a simple application to convert youtube videos to downloadable mp3
 
 ## demo
-deployed in [Repl.it](https://replit.com)
+deployed in [Repl.it](https://replit.com) 
+
 [click here](https://youtubeconverter.jasonwoo665.repl.co/) to try the demo
 
 ## how to start it locally
